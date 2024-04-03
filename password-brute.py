@@ -2,7 +2,7 @@ import requests
 import json
 from requests.sessions import Session
 
-url = "http://192.168.15.205/Decamp/Chapter6/lab2/login.php"
+url = ""
 
 # Create a session object to persist cookies
 session = Session()
